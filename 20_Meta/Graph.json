@@ -1,1 +1,57 @@
-{}
+{
+  "nodes": [
+    {
+      "id": "skill-local-llm-001",
+      "title": "Local LLM API 연동 패턴 (Ollama + OpenAI Compatible)",
+      "category": "Skills",
+      "path": "10_Wiki/Skills/Local-LLM-API-연동-패턴.md",
+      "tags": ["ollama", "local-llm", "api", "gemma4", "curl"],
+      "confidence_score": 0.95,
+      "last_reinforced": "2026-06-24"
+    },
+    {
+      "id": "topic-writing-style-001",
+      "title": "대표님 글쓰기 스타일 분석 보고서",
+      "category": "Topics",
+      "path": "10_Wiki/Topics/대표님-글쓰기-스타일-분석.md",
+      "tags": ["글쓰기", "블로그", "스타일분석", "trendsetter"],
+      "confidence_score": 0.90,
+      "last_reinforced": "2026-06-24"
+    },
+    {
+      "id": "project-content-plan-001",
+      "title": "콘텐츠 기획: [Life GPS] 시리즈",
+      "category": "Projects",
+      "path": "10_Wiki/Projects/콘텐츠-기획-Life-GPS-시리즈.md",
+      "tags": ["블로그기획", "헬스케어", "디자인씽킹", "Life-GPS"],
+      "confidence_score": 0.88,
+      "last_reinforced": "2026-06-24"
+    }
+  ],
+  "edges": [
+    {
+      "source": "skill-local-llm-001",
+      "target": "topic-writing-style-001",
+      "relation": "used_for",
+      "description": "로컬 LLM API를 활용해 글쓰기 스타일 분석 수행"
+    },
+    {
+      "source": "topic-writing-style-001",
+      "target": "project-content-plan-001",
+      "relation": "informs",
+      "description": "글쓰기 스타일 분석이 새로운 콘텐츠 기획의 기반이 됨"
+    },
+    {
+      "source": "skill-local-llm-001",
+      "target": "project-content-plan-001",
+      "relation": "used_for",
+      "description": "로컬 LLM API로 콘텐츠 기획안 도출"
+    }
+  ],
+  "meta": {
+    "last_updated": "2026-06-24",
+    "total_nodes": 3,
+    "total_edges": 3,
+    "schema_version": "1.0"
+  }
+}

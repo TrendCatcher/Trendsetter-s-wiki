@@ -1,0 +1,8 @@
+# Security & Config
+velogApi/.env
+
+# Obsidian Settings
+.obsidian/
+
+# OS System Files
+.DS_Store
