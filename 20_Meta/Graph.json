@@ -26,6 +26,51 @@
       "tags": ["블로그기획", "헬스케어", "디자인씽킹", "Life-GPS"],
       "confidence_score": 0.88,
       "last_reinforced": "2026-06-24"
+    },
+    {
+      "id": "topic-his-001",
+      "title": "디지털 헬스케어와 병원 정보 시스템(HIS)",
+      "category": "Topics",
+      "path": "10_Wiki/Topics/디지털-헬스케어와-병원-정보-시스템-HIS.md",
+      "tags": ["디지털헬스케어", "스마트병원", "HIS", "EMR", "VOC", "PROM"],
+      "confidence_score": 0.90,
+      "last_reinforced": "2026-07-02"
+    },
+    {
+      "id": "topic-healthcare-framework-001",
+      "title": "사용자 중심 디지털 헬스케어 서비스 기획 프레임",
+      "category": "Topics",
+      "path": "10_Wiki/Topics/사용자-중심-디지털-헬스케어-서비스-기획-프레임.md",
+      "tags": ["헬스케어서비스기획", "사용자중심", "MVP검증", "데이터기반시뮬레이션", "페르소나"],
+      "confidence_score": 0.92,
+      "last_reinforced": "2026-07-02"
+    },
+    {
+      "id": "topic-creative-thinking-001",
+      "title": "기획자를 위한 창의적 발상 및 핵심 역량",
+      "category": "Topics",
+      "path": "10_Wiki/Topics/기획자를-위한-창의적-발상-및-핵심-역량.md",
+      "tags": ["기획자역량", "창의적발상", "패러다임싱킹", "가용자원활용", "근본원인정의"],
+      "confidence_score": 0.88,
+      "last_reinforced": "2026-07-02"
+    },
+    {
+      "id": "topic-agent-ai-001",
+      "title": "Agent AI와 1인 기업 패러다임 변화",
+      "category": "Topics",
+      "path": "10_Wiki/Topics/Agent-AI와-1인-기업-패러다임-변화.md",
+      "tags": ["AgentAI", "패러다임쉬프트", "한계비용제로", "1인기업", "JustShipIt"],
+      "confidence_score": 0.95,
+      "last_reinforced": "2026-07-02"
+    },
+    {
+      "id": "project-mindcare-001",
+      "title": "기획안: 마음돌봄 플랫폼 (MindCare)",
+      "category": "Projects",
+      "path": "10_Wiki/Projects/기획안-마음돌봄-플랫폼-MindCare.md",
+      "tags": ["마음돌봄", "라이프로그", "수면전여정", "스트레스케어", "직장인번아웃"],
+      "confidence_score": 0.89,
+      "last_reinforced": "2026-07-02"
     }
   ],
   "edges": [
@@ -46,12 +91,36 @@
       "target": "project-content-plan-001",
       "relation": "used_for",
       "description": "로컬 LLM API로 콘텐츠 기획안 도출"
+    },
+    {
+      "source": "topic-agent-ai-001",
+      "target": "skill-local-llm-001",
+      "relation": "informs",
+      "description": "Agent AI 시대 패러다임이 로컬 API 연동 패턴의 필요성을 뒷받침함"
+    },
+    {
+      "source": "topic-healthcare-framework-001",
+      "target": "project-mindcare-001",
+      "relation": "informs",
+      "description": "사용자 중심 디지털 헬스케어 기획 프레임이 마음돌봄 플랫폼 기획안 설계의 기반이 됨"
+    },
+    {
+      "source": "topic-his-001",
+      "target": "project-mindcare-001",
+      "relation": "informs",
+      "description": "병원 정보 시스템 및 환자경험(PROM) 관점이 마음돌봄 플랫폼 데이터 연계의 기반이 됨"
+    },
+    {
+      "source": "topic-creative-thinking-001",
+      "target": "project-mindcare-001",
+      "relation": "informs",
+      "description": "창의적 발상 및 근본 문제 해결 역량이 마음돌봄 플랫폼 컨셉 도출의 기반이 됨"
     }
   ],
   "meta": {
-    "last_updated": "2026-06-24",
-    "total_nodes": 3,
-    "total_edges": 3,
+    "last_updated": "2026-07-02",
+    "total_nodes": 8,
+    "total_edges": 7,
     "schema_version": "1.0"
   }
 }
