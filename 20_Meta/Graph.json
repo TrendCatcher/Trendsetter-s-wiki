@@ -71,6 +71,51 @@
       "tags": ["마음돌봄", "라이프로그", "수면전여정", "스트레스케어", "직장인번아웃"],
       "confidence_score": 0.89,
       "last_reinforced": "2026-07-02"
+    },
+    {
+      "id": "topic-lofi-validation-001",
+      "title": "로파이 실험을 통한 가설 검증",
+      "category": "Topics",
+      "path": "10_Wiki/Topics/로파이-실험을-통한-가설-검증.md",
+      "tags": ["로파이실험", "가설검증", "프로토타이핑", "사용자경험"],
+      "confidence_score": 0.90,
+      "last_reinforced": "2026-07-20"
+    },
+    {
+      "id": "project-haribo-retrospective-001",
+      "title": "하리보 프로젝트 회고",
+      "category": "Projects",
+      "path": "10_Wiki/Projects/하리보-프로젝트-회고.md",
+      "tags": ["하리보프로젝트", "기획회고", "페르소나", "사용자중심", "비즈니스모델"],
+      "confidence_score": 0.85,
+      "last_reinforced": "2026-07-20"
+    },
+    {
+      "id": "topic-healthcare-ontology-001",
+      "title": "디지털 헬스케어 온톨로지와 자체 PK 설계",
+      "category": "Topics",
+      "path": "10_Wiki/Topics/디지털-헬스케어-온톨로지와-자체-PK-설계.md",
+      "tags": ["디지털헬스케어", "온톨로지", "표준코드", "자체PK", "데이터백본"],
+      "confidence_score": 0.92,
+      "last_reinforced": "2026-07-20"
+    },
+    {
+      "id": "project-emr-support-001",
+      "title": "EMR 연동 맞춤형 진료 지원 서비스 기획안",
+      "category": "Projects",
+      "path": "10_Wiki/Projects/EMR-연동-맞춤형-진료-지원-서비스-기획안.md",
+      "tags": ["EMR연동", "사전문진", "진료지원", "명의만들어주기", "환자경험"],
+      "confidence_score": 0.90,
+      "last_reinforced": "2026-07-20"
+    },
+    {
+      "id": "decision-hermes-agent-role-001",
+      "title": "Hermes Agent 역할 및 협업 의사결정",
+      "category": "Decisions",
+      "path": "10_Wiki/Decisions/Hermes-Agent-역할-및-협업-의사결정.md",
+      "tags": ["HermesAgent", "PM비전", "협업원칙", "멘탈코칭", "MindCare"],
+      "confidence_score": 0.95,
+      "last_reinforced": "2026-07-20"
     }
   ],
   "edges": [
@@ -115,12 +160,42 @@
       "target": "project-mindcare-001",
       "relation": "informs",
       "description": "창의적 발상 및 근본 문제 해결 역량이 마음돌봄 플랫폼 컨셉 도출의 기반이 됨"
+    },
+    {
+      "source": "topic-healthcare-ontology-001",
+      "target": "project-mindcare-001",
+      "relation": "informs",
+      "description": "디지털 헬스케어 온톨로지 개념이 마음돌봄 플랫폼의 데이터 백본 설계의 기반이 됨"
+    },
+    {
+      "source": "project-emr-support-001",
+      "target": "project-mindcare-001",
+      "relation": "informs",
+      "description": "EMR 연동 진료 지원 서비스 기획이 마음돌봄 플랫폼의 RWD 일상 데이터 연계 아이디어의 기반이 됨"
+    },
+    {
+      "source": "topic-lofi-validation-001",
+      "target": "project-emr-support-001",
+      "relation": "used_for",
+      "description": "로파이 가설 검증 방법론을 EMR 연동 서비스 기획 검증에 적용"
+    },
+    {
+      "source": "project-haribo-retrospective-001",
+      "target": "project-mindcare-001",
+      "relation": "informs",
+      "description": "하리보 프로젝트의 페르소나 설계 복기가 마음돌봄 플랫폼 페르소나 정교화의 기반이 됨"
+    },
+    {
+      "source": "decision-hermes-agent-role-001",
+      "target": "project-mindcare-001",
+      "relation": "informs",
+      "description": "대표님 웰니스 PM 비전 및 에이전트 협업 체계가 마음돌봄 플랫폼 기획 가이드가 됨"
     }
   ],
   "meta": {
-    "last_updated": "2026-07-02",
-    "total_nodes": 8,
-    "total_edges": 7,
+    "last_updated": "2026-07-20",
+    "total_nodes": 13,
+    "total_edges": 12,
     "schema_version": "1.0"
   }
 }
