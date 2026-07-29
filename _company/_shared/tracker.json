@@ -1,0 +1,89 @@
+{
+  "tasks": [
+    {
+      "id": "20260729020130-hyqq",
+      "title": "PayPal 매출 분석 결과를 기반으로 전략 수립",
+      "description": "자동 등록 (영숙 산출물에서 추출)",
+      "owner": "agent",
+      "agentIds": [
+        "secretary"
+      ],
+      "createdAt": "2026-07-29T02:01:30.345Z",
+      "status": "done",
+      "sessionDir": "2026-07-29T02-00",
+      "nudges": 0,
+      "priority": "normal",
+      "preAlarmsSent": [],
+      "evidence": "완료: sessions/2026-07-29T02-00/_report.md\n- 영숙: 작업 라운드 요약 및 보고 작성\n\nCEO 종합 요점: 📱 영숙: 작업 시작합니다.\n\n📊 평가: 진행중 — 데일리 브리핑과 미해결 할 일을 정리해야 함\n\n## 2026년 7월 31일 작업 라운드 요약 📋\n\n### 💼 에이전트 활동\n- **현빈**: PayPal 매출 실데이터 분석 및 다음 액션 제안 (sessions/2026-07-29T01-31/business.md)\n- **Writer**: 분석 결과",
+      "completedAt": "2026-07-29T02:01:30.347Z"
+    },
+    {
+      "id": "20260729020130-10jl",
+      "title": "Writer의 보고서에 대한 피드백 요청",
+      "description": "자동 등록 (영숙 산출물에서 추출)",
+      "owner": "agent",
+      "agentIds": [
+        "secretary"
+      ],
+      "createdAt": "2026-07-29T02:01:30.346Z",
+      "status": "done",
+      "sessionDir": "2026-07-29T02-00",
+      "nudges": 0,
+      "priority": "normal",
+      "preAlarmsSent": [],
+      "evidence": "완료: sessions/2026-07-29T02-00/_report.md\n- 영숙: 작업 라운드 요약 및 보고 작성\n\nCEO 종합 요점: 📱 영숙: 작업 시작합니다.\n\n📊 평가: 진행중 — 데일리 브리핑과 미해결 할 일을 정리해야 함\n\n## 2026년 7월 31일 작업 라운드 요약 📋\n\n### 💼 에이전트 활동\n- **현빈**: PayPal 매출 실데이터 분석 및 다음 액션 제안 (sessions/2026-07-29T01-31/business.md)\n- **Writer**: 분석 결과",
+      "completedAt": "2026-07-29T02:01:30.347Z"
+    },
+    {
+      "id": "20260729020130-46pz",
+      "title": "Researcher의 분석 결과 검토 및 활용",
+      "description": "자동 등록 (영숙 산출물에서 추출)",
+      "owner": "agent",
+      "agentIds": [
+        "secretary"
+      ],
+      "createdAt": "2026-07-29T02:01:30.346Z",
+      "status": "done",
+      "sessionDir": "2026-07-29T02-00",
+      "nudges": 0,
+      "priority": "normal",
+      "preAlarmsSent": [],
+      "evidence": "완료: sessions/2026-07-29T02-00/_report.md\n- 영숙: 작업 라운드 요약 및 보고 작성\n\nCEO 종합 요점: 📱 영숙: 작업 시작합니다.\n\n📊 평가: 진행중 — 데일리 브리핑과 미해결 할 일을 정리해야 함\n\n## 2026년 7월 31일 작업 라운드 요약 📋\n\n### 💼 에이전트 활동\n- **현빈**: PayPal 매출 실데이터 분석 및 다음 액션 제안 (sessions/2026-07-29T01-31/business.md)\n- **Writer**: 분석 결과",
+      "completedAt": "2026-07-29T02:01:30.348Z"
+    },
+    {
+      "id": "20260729020130-4nhg",
+      "title": "텔레그램 봇 연결 (Google Calendar OAuth)",
+      "description": "자동 등록 (영숙 산출물에서 추출)",
+      "owner": "agent",
+      "agentIds": [
+        "secretary"
+      ],
+      "createdAt": "2026-07-29T02:01:30.346Z",
+      "status": "done",
+      "sessionDir": "2026-07-29T02-00",
+      "nudges": 0,
+      "priority": "normal",
+      "preAlarmsSent": [],
+      "evidence": "완료: sessions/2026-07-29T02-00/_report.md\n- 영숙: 작업 라운드 요약 및 보고 작성\n\nCEO 종합 요점: 📱 영숙: 작업 시작합니다.\n\n📊 평가: 진행중 — 데일리 브리핑과 미해결 할 일을 정리해야 함\n\n## 2026년 7월 31일 작업 라운드 요약 📋\n\n### 💼 에이전트 활동\n- **현빈**: PayPal 매출 실데이터 분석 및 다음 액션 제안 (sessions/2026-07-29T01-31/business.md)\n- **Writer**: 분석 결과",
+      "completedAt": "2026-07-29T02:01:30.348Z"
+    },
+    {
+      "id": "20260729020130-gn18",
+      "title": "웹사이트와 SNS 마케팅 계획 수립",
+      "description": "자동 등록 (영숙 산출물에서 추출)",
+      "owner": "agent",
+      "agentIds": [
+        "secretary"
+      ],
+      "createdAt": "2026-07-29T02:01:30.346Z",
+      "status": "done",
+      "sessionDir": "2026-07-29T02-00",
+      "nudges": 0,
+      "priority": "normal",
+      "preAlarmsSent": [],
+      "evidence": "완료: sessions/2026-07-29T02-00/_report.md\n- 영숙: 작업 라운드 요약 및 보고 작성\n\nCEO 종합 요점: 📱 영숙: 작업 시작합니다.\n\n📊 평가: 진행중 — 데일리 브리핑과 미해결 할 일을 정리해야 함\n\n## 2026년 7월 31일 작업 라운드 요약 📋\n\n### 💼 에이전트 활동\n- **현빈**: PayPal 매출 실데이터 분석 및 다음 액션 제안 (sessions/2026-07-29T01-31/business.md)\n- **Writer**: 분석 결과",
+      "completedAt": "2026-07-29T02:01:30.348Z"
+    }
+  ]
+}
