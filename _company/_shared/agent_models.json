@@ -1,0 +1,9 @@
+{
+  "youtube": "google/gemma-4-e4b",
+  "instagram": "google/gemma-4-e4b",
+  "designer": "google/gemma-4-e4b",
+  "business": "google/gemma-4-e4b",
+  "secretary": "google/gemma-4-e4b",
+  "writer": "qwen2.5-7b-instruct",
+  "researcher": "qwen2.5-7b-instruct"
+}
