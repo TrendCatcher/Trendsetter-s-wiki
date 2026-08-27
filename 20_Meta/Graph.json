@@ -5,7 +5,13 @@
       "title": "Local LLM API 연동 패턴 (Ollama + OpenAI Compatible)",
       "category": "Skills",
       "path": "10_Wiki/Skills/Local-LLM-API-연동-패턴.md",
-      "tags": ["ollama", "local-llm", "api", "gemma4", "curl"],
+      "tags": [
+        "ollama",
+        "local-llm",
+        "api",
+        "gemma4",
+        "curl"
+      ],
       "confidence_score": 0.95,
       "last_reinforced": "2026-06-24"
     },
@@ -14,8 +20,13 @@
       "title": "대표님 글쓰기 스타일 분석 보고서",
       "category": "Topics",
       "path": "10_Wiki/Topics/대표님-글쓰기-스타일-분석.md",
-      "tags": ["글쓰기", "블로그", "스타일분석", "trendsetter"],
-      "confidence_score": 0.90,
+      "tags": [
+        "글쓰기",
+        "블로그",
+        "스타일분석",
+        "trendsetter"
+      ],
+      "confidence_score": 0.9,
       "last_reinforced": "2026-06-24"
     },
     {
@@ -23,7 +34,12 @@
       "title": "콘텐츠 기획: [Life GPS] 시리즈",
       "category": "Projects",
       "path": "10_Wiki/Projects/콘텐츠-기획-Life-GPS-시리즈.md",
-      "tags": ["블로그기획", "헬스케어", "디자인씽킹", "Life-GPS"],
+      "tags": [
+        "블로그기획",
+        "헬스케어",
+        "디자인씽킹",
+        "Life-GPS"
+      ],
       "confidence_score": 0.88,
       "last_reinforced": "2026-06-24"
     },
@@ -32,8 +48,15 @@
       "title": "디지털 헬스케어와 병원 정보 시스템(HIS)",
       "category": "Topics",
       "path": "10_Wiki/Topics/디지털-헬스케어와-병원-정보-시스템-HIS.md",
-      "tags": ["디지털헬스케어", "스마트병원", "HIS", "EMR", "VOC", "PROM"],
-      "confidence_score": 0.90,
+      "tags": [
+        "디지털헬스케어",
+        "스마트병원",
+        "HIS",
+        "EMR",
+        "VOC",
+        "PROM"
+      ],
+      "confidence_score": 0.9,
       "last_reinforced": "2026-07-02"
     },
     {
@@ -41,7 +64,13 @@
       "title": "사용자 중심 디지털 헬스케어 서비스 기획 프레임",
       "category": "Topics",
       "path": "10_Wiki/Topics/사용자-중심-디지털-헬스케어-서비스-기획-프레임.md",
-      "tags": ["헬스케어서비스기획", "사용자중심", "MVP검증", "데이터기반시뮬레이션", "페르소나"],
+      "tags": [
+        "헬스케어서비스기획",
+        "사용자중심",
+        "MVP검증",
+        "데이터기반시뮬레이션",
+        "페르소나"
+      ],
       "confidence_score": 0.92,
       "last_reinforced": "2026-07-02"
     },
@@ -50,7 +79,13 @@
       "title": "기획자를 위한 창의적 발상 및 핵심 역량",
       "category": "Topics",
       "path": "10_Wiki/Topics/기획자를-위한-창의적-발상-및-핵심-역량.md",
-      "tags": ["기획자역량", "창의적발상", "패러다임싱킹", "가용자원활용", "근본원인정의"],
+      "tags": [
+        "기획자역량",
+        "창의적발상",
+        "패러다임싱킹",
+        "가용자원활용",
+        "근본원인정의"
+      ],
       "confidence_score": 0.88,
       "last_reinforced": "2026-07-02"
     },
@@ -59,7 +94,13 @@
       "title": "Agent AI와 1인 기업 패러다임 변화",
       "category": "Topics",
       "path": "10_Wiki/Topics/Agent-AI와-1인-기업-패러다임-변화.md",
-      "tags": ["AgentAI", "패러다임쉬프트", "한계비용제로", "1인기업", "JustShipIt"],
+      "tags": [
+        "AgentAI",
+        "패러다임쉬프트",
+        "한계비용제로",
+        "1인기업",
+        "JustShipIt"
+      ],
       "confidence_score": 0.95,
       "last_reinforced": "2026-07-02"
     },
@@ -68,7 +109,13 @@
       "title": "기획안: 마음돌봄 플랫폼 (MindCare)",
       "category": "Projects",
       "path": "10_Wiki/Projects/기획안-마음돌봄-플랫폼-MindCare.md",
-      "tags": ["마음돌봄", "라이프로그", "수면전여정", "스트레스케어", "직장인번아웃"],
+      "tags": [
+        "마음돌봄",
+        "라이프로그",
+        "수면전여정",
+        "스트레스케어",
+        "직장인번아웃"
+      ],
       "confidence_score": 0.89,
       "last_reinforced": "2026-07-02"
     },
@@ -77,8 +124,13 @@
       "title": "로파이 실험을 통한 가설 검증",
       "category": "Topics",
       "path": "10_Wiki/Topics/로파이-실험을-통한-가설-검증.md",
-      "tags": ["로파이실험", "가설검증", "프로토타이핑", "사용자경험"],
-      "confidence_score": 0.90,
+      "tags": [
+        "로파이실험",
+        "가설검증",
+        "프로토타이핑",
+        "사용자경험"
+      ],
+      "confidence_score": 0.9,
       "last_reinforced": "2026-07-20"
     },
     {
@@ -86,7 +138,13 @@
       "title": "하리보 프로젝트 회고",
       "category": "Projects",
       "path": "10_Wiki/Projects/하리보-프로젝트-회고.md",
-      "tags": ["하리보프로젝트", "기획회고", "페르소나", "사용자중심", "비즈니스모델"],
+      "tags": [
+        "하리보프로젝트",
+        "기획회고",
+        "페르소나",
+        "사용자중심",
+        "비즈니스모델"
+      ],
       "confidence_score": 0.85,
       "last_reinforced": "2026-07-20"
     },
@@ -95,7 +153,13 @@
       "title": "디지털 헬스케어 온톨로지와 자체 PK 설계",
       "category": "Topics",
       "path": "10_Wiki/Topics/디지털-헬스케어-온톨로지와-자체-PK-설계.md",
-      "tags": ["디지털헬스케어", "온톨로지", "표준코드", "자체PK", "데이터백본"],
+      "tags": [
+        "디지털헬스케어",
+        "온톨로지",
+        "표준코드",
+        "자체PK",
+        "데이터백본"
+      ],
       "confidence_score": 0.92,
       "last_reinforced": "2026-07-20"
     },
@@ -104,8 +168,14 @@
       "title": "EMR 연동 맞춤형 진료 지원 서비스 기획안",
       "category": "Projects",
       "path": "10_Wiki/Projects/EMR-연동-맞춤형-진료-지원-서비스-기획안.md",
-      "tags": ["EMR연동", "사전문진", "진료지원", "명의만들어주기", "환자경험"],
-      "confidence_score": 0.90,
+      "tags": [
+        "EMR연동",
+        "사전문진",
+        "진료지원",
+        "명의만들어주기",
+        "환자경험"
+      ],
+      "confidence_score": 0.9,
       "last_reinforced": "2026-07-20"
     },
     {
@@ -113,9 +183,148 @@
       "title": "Hermes Agent 역할 및 협업 의사결정",
       "category": "Decisions",
       "path": "10_Wiki/Decisions/Hermes-Agent-역할-및-협업-의사결정.md",
-      "tags": ["HermesAgent", "PM비전", "협업원칙", "멘탈코칭", "MindCare"],
+      "tags": [
+        "HermesAgent",
+        "PM비전",
+        "협업원칙",
+        "멘탈코칭",
+        "MindCare"
+      ],
       "confidence_score": 0.95,
       "last_reinforced": "2026-07-20"
+    },
+    {
+      "id": "project-lifeon-001",
+      "title": "LIFEON 기획서 보강 지식",
+      "category": "Projects",
+      "path": "10_Wiki/Projects/LIFEON-기획서-보강-지식.md",
+      "tags": [
+        "LIFEON",
+        "디지털헬스케어",
+        "기획서보강",
+        "WoWPoint",
+        "데이터온톨로지",
+        "B2B2C",
+        "PROM_PREM"
+      ],
+      "confidence_score": 0.95,
+      "last_reinforced": "2026-08-27"
+    },
+    {
+      "id": "project-integrated-care-csr-001",
+      "title": "통합돌봄-CSR-연계형-디지털-헬스케어-기획",
+      "category": "Projects",
+      "path": "10_Wiki/Projects/통합돌봄-CSR-연계형-디지털-헬스케어-기획.md",
+      "tags": [
+        "통합돌봄",
+        "CSRImpact",
+        "CollectiveImpact",
+        "사회공헌",
+        "치매케어",
+        "B2G_B2B",
+        "병원동행"
+      ],
+      "confidence_score": 0.92,
+      "last_reinforced": "2026-08-27"
+    },
+    {
+      "id": "project-space-caregiver-dtx-001",
+      "title": "SPACE-공황장애-보호자-돌봄-케어-DTx-기획안",
+      "category": "Projects",
+      "path": "10_Wiki/Projects/SPACE-공황장애-보호자-돌봄-케어-DTx-기획안.md",
+      "tags": [
+        "SPACE",
+        "DTx",
+        "공황장애",
+        "보호자케어",
+        "인지적융합",
+        "소거학습",
+        "브레인에너지"
+      ],
+      "confidence_score": 0.95,
+      "last_reinforced": "2026-08-27"
+    },
+    {
+      "id": "project-moroutine-retrospective-001",
+      "title": "2030-탈모-루틴-케어-모루틴-기획-회고",
+      "category": "Projects",
+      "path": "10_Wiki/Projects/2030-탈모-루틴-케어-모루틴-기획-회고.md",
+      "tags": [
+        "모루틴",
+        "탈모케어",
+        "2030헬스케어",
+        "페르소나",
+        "프로덕트회고",
+        "웰니스루틴"
+      ],
+      "confidence_score": 0.9,
+      "last_reinforced": "2026-08-27"
+    },
+    {
+      "id": "topic-discovery-hypothesis-framework-001",
+      "title": "디스커버리와-4단계-가설검증-프레임워크",
+      "category": "Topics",
+      "path": "10_Wiki/Topics/디스커버리와-4단계-가설검증-프레임워크.md",
+      "tags": [
+        "디스커버리",
+        "PMF",
+        "가설검증",
+        "프로덕트매니지먼트",
+        "페르소나",
+        "로파이실험"
+      ],
+      "confidence_score": 0.95,
+      "last_reinforced": "2026-08-27"
+    },
+    {
+      "id": "topic-digital-healthcare-ecosystem-001",
+      "title": "디지털-헬스케어-3대축과-데이터-생태계",
+      "category": "Topics",
+      "path": "10_Wiki/Topics/디지털-헬스케어-3대축과-데이터-생태계.md",
+      "tags": [
+        "디지털헬스케어",
+        "원스글로벌",
+        "밸류체인",
+        "Illness_Wellness_Infra",
+        "데이터생태계",
+        "AI예측"
+      ],
+      "confidence_score": 0.93,
+      "last_reinforced": "2026-08-27"
+    },
+    {
+      "id": "topic-coaching-leadership-disc-001",
+      "title": "코칭-리더십과-자기인식-DISC",
+      "category": "Topics",
+      "path": "10_Wiki/Topics/코칭-리더십과-자기인식-DISC.md",
+      "tags": [
+        "코칭리더십",
+        "김은정소장님",
+        "DISC",
+        "자기인식",
+        "경청",
+        "방어기제",
+        "리더십"
+      ],
+      "confidence_score": 0.95,
+      "last_reinforced": "2026-08-27"
+    },
+    {
+      "id": "topic-karpathy-llm-wiki-architecture-001",
+      "title": "Karpathy-LLM-Wiki-이론과-지식-축적",
+      "category": "Topics",
+      "path": "10_Wiki/Topics/Karpathy-LLM-Wiki-이론과-지식-축적.md",
+      "tags": [
+        "Karpathy",
+        "LLMWiki",
+        "P_Reinforce",
+        "지식축적",
+        "RAG한계",
+        "SecondBrain",
+        "강화학습"
+      ],
+      "confidence_score": 0.98,
+      "last_reinforced": "2026-08-27"
     }
   ],
   "edges": [
@@ -190,12 +399,54 @@
       "target": "project-mindcare-001",
       "relation": "informs",
       "description": "대표님 웰니스 PM 비전 및 에이전트 협업 체계가 마음돌봄 플랫폼 기획 가이드가 됨"
+    },
+    {
+      "source": "topic-karpathy-llm-wiki-architecture-001",
+      "target": "topic-agent-ai-001",
+      "relation": "informs",
+      "description": "Karpathy LLM-Wiki 아키텍처가 1인 기업 및 에이전트 지식 인프라의 핵심을 구성"
+    },
+    {
+      "source": "topic-discovery-hypothesis-framework-001",
+      "target": "project-lifeon-001",
+      "relation": "informs",
+      "description": "디스커버리 및 가설 검증 4단계 방법론이 LIFEON 기획의 Lo-Fi 검증과 WoW Point 설계에 적용됨"
+    },
+    {
+      "source": "topic-digital-healthcare-ecosystem-001",
+      "target": "project-lifeon-001",
+      "relation": "informs",
+      "description": "디지털 헬스케어 3대 축 및 데이터 온톨로지가 LIFEON B2B2C 파이프라인의 기반이 됨"
+    },
+    {
+      "source": "project-integrated-care-csr-001",
+      "target": "project-lifeon-001",
+      "relation": "informs",
+      "description": "통합돌봄 및 지자체/CSR 연계 모델이 LIFEON의 실효적 B2B2C 생태계 확장에 연계됨"
+    },
+    {
+      "source": "project-space-caregiver-dtx-001",
+      "target": "project-mindcare-001",
+      "relation": "informs",
+      "description": "SPACE 보호자 케어 DTx 프로토콜이 MindCare 스트레스 자생력 비전의 핵심 DTx 모듈로 기능"
+    },
+    {
+      "source": "topic-coaching-leadership-disc-001",
+      "target": "decision-hermes-agent-role-001",
+      "relation": "informs",
+      "description": "DISC DC형 자기인식 및 코칭 리더십 철학이 Hermes 에이전트 협업 원칙의 기초가 됨"
+    },
+    {
+      "source": "project-moroutine-retrospective-001",
+      "target": "topic-healthcare-framework-001",
+      "relation": "informs",
+      "description": "모루틴 2030 페르소나 및 웰니스 루틴 기획 회고가 사용자 중심 헬스케어 프레임에 반영"
     }
   ],
   "meta": {
-    "last_updated": "2026-07-20",
-    "total_nodes": 13,
-    "total_edges": 12,
-    "schema_version": "1.0"
+    "last_updated": "2026-08-27",
+    "total_nodes": 21,
+    "total_edges": 19,
+    "schema_version": "1.1"
   }
 }
