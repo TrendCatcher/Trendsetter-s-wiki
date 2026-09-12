@@ -17,17 +17,18 @@
     },
     {
       "id": "topic-writing-style-001",
-      "title": "대표님 글쓰기 스타일 분석 보고서",
+      "title": "대표님 글쓰기 스타일 분석",
       "category": "Topics",
       "path": "10_Wiki/Topics/대표님-글쓰기-스타일-분석.md",
       "tags": [
         "글쓰기",
-        "블로그",
-        "스타일분석",
-        "trendsetter"
+        "장르",
+        "원본근거",
+        "자기수정"
       ],
-      "confidence_score": 0.9,
-      "last_reinforced": "2026-06-24"
+      "confidence_score": null,
+      "last_reinforced": "2026-09-10",
+      "review_status": "원본 대조 수정; 사용자 최종 검토 대기"
     },
     {
       "id": "project-content-plan-001",
@@ -38,10 +39,13 @@
         "블로그기획",
         "헬스케어",
         "디자인씽킹",
-        "Life-GPS"
+        "Life-GPS",
+        "콘텐츠전략",
+        "웰니스"
       ],
-      "confidence_score": 0.88,
-      "last_reinforced": "2026-06-24"
+      "confidence_score": null,
+      "last_reinforced": "2026-09-10",
+      "review_status": "원본 대조 수정; 사용자 최종 검토 대기"
     },
     {
       "id": "topic-his-001",
@@ -96,13 +100,13 @@
       "path": "10_Wiki/Topics/Agent-AI와-1인-기업-패러다임-변화.md",
       "tags": [
         "AgentAI",
-        "패러다임쉬프트",
-        "한계비용제로",
-        "1인기업",
-        "JustShipIt"
+        "자동화",
+        "실행",
+        "가설"
       ],
-      "confidence_score": 0.95,
-      "last_reinforced": "2026-07-02"
+      "confidence_score": null,
+      "last_reinforced": "2026-09-10",
+      "review_status": "원본 대조 수정; 사용자 최종 검토 대기"
     },
     {
       "id": "project-mindcare-001",
@@ -139,14 +143,15 @@
       "category": "Projects",
       "path": "10_Wiki/Projects/하리보-프로젝트-회고.md",
       "tags": [
-        "하리보프로젝트",
+        "하리보",
         "기획회고",
         "페르소나",
-        "사용자중심",
-        "비즈니스모델"
+        "소통",
+        "자기수정"
       ],
-      "confidence_score": 0.85,
-      "last_reinforced": "2026-07-20"
+      "confidence_score": null,
+      "last_reinforced": "2026-09-10",
+      "review_status": "원본 대조 수정; 사용자 최종 검토 대기"
     },
     {
       "id": "topic-healthcare-ontology-001",
@@ -184,14 +189,14 @@
       "category": "Decisions",
       "path": "10_Wiki/Decisions/Hermes-Agent-역할-및-협업-의사결정.md",
       "tags": [
-        "HermesAgent",
-        "PM비전",
-        "협업원칙",
-        "멘탈코칭",
-        "MindCare"
+        "협업선호",
+        "자기보고",
+        "소통",
+        "근거"
       ],
-      "confidence_score": 0.95,
-      "last_reinforced": "2026-07-20"
+      "confidence_score": null,
+      "last_reinforced": "2026-09-10",
+      "review_status": "원본 대조 수정; 사용자 최종 검토 대기"
     },
     {
       "id": "project-lifeon-001",
@@ -246,19 +251,18 @@
     },
     {
       "id": "project-moroutine-retrospective-001",
-      "title": "2030-탈모-루틴-케어-모루틴-기획-회고",
+      "title": "모루틴 기획 회고",
       "category": "Projects",
       "path": "10_Wiki/Projects/2030-탈모-루틴-케어-모루틴-기획-회고.md",
       "tags": [
         "모루틴",
-        "탈모케어",
-        "2030헬스케어",
-        "페르소나",
-        "프로덕트회고",
-        "웰니스루틴"
+        "기획회고",
+        "미해결과제",
+        "페르소나"
       ],
-      "confidence_score": 0.9,
-      "last_reinforced": "2026-08-27"
+      "confidence_score": null,
+      "last_reinforced": "2026-09-10",
+      "review_status": "원본 대조 수정; 사용자 최종 검토 대기"
     },
     {
       "id": "topic-discovery-hypothesis-framework-001",
@@ -315,16 +319,14 @@
       "category": "Topics",
       "path": "10_Wiki/Topics/Karpathy-LLM-Wiki-이론과-지식-축적.md",
       "tags": [
-        "Karpathy",
         "LLMWiki",
-        "P_Reinforce",
-        "지식축적",
-        "RAG한계",
-        "SecondBrain",
-        "강화학습"
+        "원본보존",
+        "근거",
+        "지식관리"
       ],
-      "confidence_score": 0.98,
-      "last_reinforced": "2026-08-27"
+      "confidence_score": null,
+      "last_reinforced": "2026-09-10",
+      "review_status": "원본 대조 수정; 사용자 최종 검토 대기"
     }
   ],
   "edges": [
@@ -332,25 +334,29 @@
       "source": "skill-local-llm-001",
       "target": "topic-writing-style-001",
       "relation": "used_for",
-      "description": "로컬 LLM API를 활용해 글쓰기 스타일 분석 수행"
+      "description": "로컬 LLM API를 활용해 글쓰기 스타일 분석 수행",
+      "evidence_status": "에이전트의 관계 해석; 실제 적용·인과관계 미검증"
     },
     {
       "source": "topic-writing-style-001",
       "target": "project-content-plan-001",
       "relation": "informs",
-      "description": "글쓰기 스타일 분석이 새로운 콘텐츠 기획의 기반이 됨"
+      "description": "글쓰기 스타일 분석이 새로운 콘텐츠 기획의 기반이 됨",
+      "evidence_status": "에이전트의 관계 해석; 실제 적용·인과관계 미검증"
     },
     {
       "source": "skill-local-llm-001",
       "target": "project-content-plan-001",
       "relation": "used_for",
-      "description": "로컬 LLM API로 콘텐츠 기획안 도출"
+      "description": "로컬 LLM API로 콘텐츠 기획안 도출",
+      "evidence_status": "에이전트의 관계 해석; 실제 적용·인과관계 미검증"
     },
     {
       "source": "topic-agent-ai-001",
       "target": "skill-local-llm-001",
       "relation": "informs",
-      "description": "Agent AI 시대 패러다임이 로컬 API 연동 패턴의 필요성을 뒷받침함"
+      "description": "자동화 관심과 로컬 API 패턴의 주제상 연관",
+      "evidence_status": "에이전트의 관계 해석; 실제 적용·인과관계 미검증"
     },
     {
       "source": "topic-healthcare-framework-001",
@@ -392,19 +398,22 @@
       "source": "project-haribo-retrospective-001",
       "target": "project-mindcare-001",
       "relation": "informs",
-      "description": "하리보 프로젝트의 페르소나 설계 복기가 마음돌봄 플랫폼 페르소나 정교화의 기반이 됨"
+      "description": "사용자 이해와 전달 방식의 회고를 후속 기획에 참고할 수 있다는 해석",
+      "evidence_status": "에이전트의 관계 해석; 실제 적용·인과관계 미검증"
     },
     {
       "source": "decision-hermes-agent-role-001",
       "target": "project-mindcare-001",
       "relation": "informs",
-      "description": "대표님 웰니스 PM 비전 및 에이전트 협업 체계가 마음돌봄 플랫폼 기획 가이드가 됨"
+      "description": "대표님 웰니스 PM 비전 및 에이전트 협업 체계가 마음돌봄 플랫폼 기획 가이드가 됨",
+      "evidence_status": "에이전트의 관계 해석; 실제 적용·인과관계 미검증"
     },
     {
       "source": "topic-karpathy-llm-wiki-architecture-001",
       "target": "topic-agent-ai-001",
       "relation": "informs",
-      "description": "Karpathy LLM-Wiki 아키텍처가 1인 기업 및 에이전트 지식 인프라의 핵심을 구성"
+      "description": "위키 관리와 에이전트 활용 관점의 주제상 연관",
+      "evidence_status": "에이전트의 관계 해석; 실제 적용·인과관계 미검증"
     },
     {
       "source": "topic-discovery-hypothesis-framework-001",
@@ -434,19 +443,24 @@
       "source": "topic-coaching-leadership-disc-001",
       "target": "decision-hermes-agent-role-001",
       "relation": "informs",
-      "description": "DISC DC형 자기인식 및 코칭 리더십 철학이 Hermes 에이전트 협업 원칙의 기초가 됨"
+      "description": "코칭·자기인식과 협업 선호의 주제상 연관; 직접 영향 미확인",
+      "evidence_status": "에이전트의 관계 해석; 실제 적용·인과관계 미검증"
     },
     {
       "source": "project-moroutine-retrospective-001",
       "target": "topic-healthcare-framework-001",
       "relation": "informs",
-      "description": "모루틴 2030 페르소나 및 웰니스 루틴 기획 회고가 사용자 중심 헬스케어 프레임에 반영"
+      "description": "페르소나·정보 신뢰성·BM 검증 과제를 사용자 중심 기획과 연결한 해석",
+      "evidence_status": "에이전트의 관계 해석; 실제 적용·인과관계 미검증"
     }
   ],
   "meta": {
-    "last_updated": "2026-08-27",
+    "last_updated": "2026-09-10",
     "total_nodes": 21,
     "total_edges": 19,
-    "schema_version": "1.1"
+    "schema_version": "1.2",
+    "confidence_score_semantics": "미검증 과거 점수; 보정 확률 아님. 재작성 문서는 null.",
+    "review_scope": "README·운영 명세·문체·개인 해석과 관련 회고 중심. 전체 지식 사실 검증은 미실시.",
+    "edge_semantics": "링크와 편집상 관계를 표현. 실제 인과·구현·사용자 승인 증거는 아님."
   }
 }
